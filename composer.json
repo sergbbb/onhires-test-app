@@ -1,0 +1,19 @@
+{
+    "name": "sergbbb/fin",
+    "description": "Test Task",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sergbbb\\Fin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Serhii Khoroshko",
+            "email": "khoroshko@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.9"
+    }
+}
